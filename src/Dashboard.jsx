@@ -13,13 +13,9 @@ import {
   Checkbox,
   Button,
   Input,
-  IconButton,
   Select,
-  Badge,
-  Divider,
   Stack,
 } from "@chakra-ui/react";
-import { SearchIcon } from "@chakra-ui/icons";
 
 const Dashboard = () => {
   const users = [
